@@ -530,7 +530,7 @@ const ContactSection = () => {
               </div>
               <div>
                 <h4 className="text-white font-serif tracking-wider text-xl mb-1">Indirizzo</h4>
-                <p className="text-white/60 font-light">Via del Lusso, 1A<br/>00100 Roma, IT</p>
+                <p className="text-white/60 font-light">Via Aldo Moro 111<br/>80049 Somma Vesuviana, Napoli</p>
               </div>
             </div>
 
@@ -592,7 +592,7 @@ const ContactSection = () => {
 const Footer = () => (
   <footer className="w-full px-12 py-6 flex flex-col md:flex-row justify-between items-center text-[10px] text-white/40 tracking-widest uppercase border-t border-white/5 relative z-10">
     <div className="flex gap-8 mb-4 md:mb-0">
-      <span className="hover:text-luxury-gold transition-colors cursor-pointer">Via del Lusso 1A, Roma</span>
+      <span className="hover:text-luxury-gold transition-colors cursor-pointer">Via Aldo Moro 111, Somma Vesuviana, Napoli</span>
       <span className="hover:text-luxury-gold transition-colors cursor-pointer">+39 06 1234567</span>
     </div>
     <div className="font-serif text-lg font-bold tracking-widest text-white/20 hidden md:block">
