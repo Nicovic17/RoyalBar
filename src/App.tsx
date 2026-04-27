@@ -23,15 +23,15 @@ const MENU_ITEMS = [
 
 const FEATURED_PRODUCTS = [
   { id: 1, name: 'Signature Cocktail', img: 'https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&q=80&w=800' },
-  { id: 2, name: 'Caffè Premium', img: 'https://images.unsplash.com/photo-1497935586351-b6a8bd86576d?auto=format&fit=crop&q=80&w=800' },
-  { id: 3, name: 'Champagne Reserve', img: 'https://images.unsplash.com/photo-1599939571322-792a326e9086?auto=format&fit=crop&q=80&w=800' },
+  { id: 2, name: 'Caffè Premium', img: 'https://images.unsplash.com/photo-1511920170033-f8396924c348?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+  { id: 3, name: 'Champagne Reserve', img: 'https://images.unsplash.com/photo-1621866908556-4f0a830707c9?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
 ];
 
 const ATMOSPHERE_IMAGES = [
   'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&q=80&w=800',
   'https://images.unsplash.com/photo-1520262454473-a1a82276a574?auto=format&fit=crop&q=80&w=800',
   'https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?auto=format&fit=crop&q=80&w=800',
-  'https://images.unsplash.com/photo-1541599540903-216a46ca1dc6?auto=format&fit=crop&q=80&w=800'
+  'https://images.unsplash.com/photo-1597290282695-edc43d0e7129?q=80&w=2675&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ];
 
 const NAV_ITEMS = [
